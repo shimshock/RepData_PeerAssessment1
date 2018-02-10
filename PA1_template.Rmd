@@ -2,10 +2,9 @@
 title: "Reproducible Research Course Project 1"
 author: "Stephen Shimshock"
 date: "January 27th, 2018"
-output:
-html_document: default
-pdf_document: default
-keep_md: true
+output: 
+  html_document:
+    keep_md: true
 ---
 
 #Introduction
